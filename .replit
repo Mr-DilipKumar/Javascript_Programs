@@ -1,4 +1,4 @@
-entrypoint = "12_Exercise_3.js"
+entrypoint = "15_Exercise_4.js"
 
 hidden = [".config", "package-lock.json"]
 
